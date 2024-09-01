@@ -23,3 +23,4 @@ This project involved managing test cases and defects using Jira. I tested the w
 - Check the screenshots for visual confirmation of the issues.
 
 ## https://kanchiatwar.atlassian.net/issues/?jql=project+%3D+%22P0%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiZTFmZjBhZGFhMmZlNDE0Y2I5MmQzMzlmZTkxNzM2MjMiLCJwIjoiaiJ9
+![image](https://github.com/user-attachments/assets/01f7749a-47ce-4377-b0ad-fa6180ca7c55)

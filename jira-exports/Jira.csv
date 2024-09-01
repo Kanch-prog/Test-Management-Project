@@ -1,0 +1,163 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Goals),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Request Type),Custom field (Sentiment),Custom field (Start date),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Total forms),Custom field (Vulnerability),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Status Category,Status Category Changed
+The caption of the Sign In button in is misaligned vertically,P0-11,10010,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Low,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 18:11,9/1/2024 18:12,9/1/2024 18:43,,,0,"Action Performed
+
+# Open [https://academybugs.com|https://academybugs.com/]
+# Click the Find Bugs link on the navigation bar
+# Open a product
+# Scroll to the bottom and find the sign in form in the right side menu
+# Enter any login and password that are not registered and click ""Sign In""
+
+Expected Result
+
+The caption of the Sign In button is centered vertically
+
+Actual Result
+
+The caption of the Sign In button is misaligned vertically",,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 6:12 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;visaul_04.png;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10010,,,,,,,,,,,,,,,,,0|i00027:,,,,,,,,,,,,,To Do,9/1/2024 18:11
+There are unreadable symbols in the shopping cart popup.,P0-10,10009,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Low,,,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 18:08,9/1/2024 18:09,9/1/2024 18:09,,,0,"Action Performed
+
+# Open [https://academybugs.com|https://academybugs.com/]
+# Click the Find Bugs link on the navigation bar
+# Add one or more products to the cart
+# Click ""View Cart"" on top of the page
+# Scroll down to the Shopping Cart section of the right side menu
+# Hover over the Shopping Cart caption
+
+Expected Result
+
+All characters are clear to a regular user
+
+Actual Result
+
+There are unreadable symbols in the shopping cart popup",,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 6:09 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;visual_03.png;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10009,,,,,,,,,,,,,,,,,0|i0001z:,,,,,,,,,,,,,To Do,9/1/2024 18:08
+The Sign In button overlaps the footer,P0-9,10008,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Low,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 18:03,9/1/2024 18:04,9/1/2024 18:03,,,0,"Action Performed
+
+# Open [https://academybugs.com|https://academybugs.com/]
+# Click the Find Bugs link on the navigation bar
+# Open a product with no color selection options
+# Scroll down to the bottom of the right side menu
+
+Expected Result
+
+The Sign In button is above the footer
+
+Actual Result
+
+The Sign In button overlaps the footer",,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 6:04 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;visual_02.PNG;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10008,,,,,,,,,,,,,,,,,0|i0001r:,,,,,,,,,,,,,To Do,9/1/2024 18:03
+The My Space share page loads infinitely,P0-8,10007,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Low,,,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 17:00,9/1/2024 17:00,9/1/2024 17:00,,,0,"Action Performed
+
+# Open [https://academybugs.com/|https://academybugs.com/|smart-link] 
+# Click the Find Bugs link on the navigation bar
+# Open a product
+# Click the My Space share link
+
+Expected Result
+
+The user is able to share the product through My Space
+
+Actual Result
+
+My Space share page loads infinitely",,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 5:00 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;performance_02.PNG;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10007,,,,,,,,,,,,,,,,,0|i0001j:,,,,,,,,,,,,,To Do,9/1/2024 17:00
+The filter by price doesn't work in the product details or product list pages.,P0-7,10006,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Medium,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 16:55,9/1/2024 16:56,9/1/2024 16:55,,,0,"Action Performed
+
+# Open [https://academybugs.com|https://academybugs.com/]
+# Click the Find Bugs link on the navigation bar
+# Open a product
+# On the right side menu find the Filter by Price section
+# Select any of the price ranges
+# Also open any item from the right side Store Menu and select the price ranges on the right side menu
+
+Expected Result
+
+A list of products in the selected price range is shown
+
+Actual Result
+
+The same page reloads",,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 4:56 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;functional_01.gif;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10006,,,,,,,,,,,,,,,,,0|i0001b:,,,,,,,,,,,,,To Do,9/1/2024 16:55
+The short description and description of the product are not in English,P0-6,10005,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Medium,,,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 16:51,9/1/2024 16:53,9/1/2024 16:52,,,0,"Action Performed
+
+# Open [https://academybugs.com|https://academybugs.com/]
+# Click the Find Bugs link on the navigation bar
+# Open a product
+
+Expected Result
+
+The short description and description of the product are in English
+
+Actual Result
+
+The short description and description of the product are not in English",,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 4:53 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;content_02.PNG;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10005,,,,,,,,,,,,,,,,,0|i00013:,,,,,,,,,,,,,To Do,9/1/2024 16:51
+The image is not completely displayed.,P0-5,10004,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Medium,,,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 16:49,9/1/2024 16:50,9/1/2024 16:50,,,0,"Action Performed
+
+# Open [https://academybugs.com|https://academybugs.com/]
+# Click the Find Bugs link on the navigation bar
+# Click on ""Dark Grey Jeans""
+
+Expected Result
+
+The product image fills the box entirely
+
+Actual Result
+
+The image has a white space on the right",,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 4:50 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;visual_01.PNG;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10004,,,,,,,,,,,,,,,,,0|i0000v:,,,,,,,,,,,,,To Do,9/1/2024 16:49
+The page freezes when changing the currency.,P0-4,10003,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,High,,,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 16:47,9/1/2024 16:48,9/1/2024 16:47,,,0,"h4. *Action Performed*
+
+# Open [*https://academybugs.com*|https://academybugs.com/]
+# Click the Find Bugs link on the navigation bar
+# Open a product
+# Change the currency in the right side menu
+
+h4. *Expected Result*
+
+The currency is changed as expected
+
+h4. *Actual Result*
+
+The page freezes when changing the currency",,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 4:48 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;crash_02.PNG;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10003,,,,,,,,,,,,,,,,,0|i0000n:,,,,,,,,,,,,,To Do,9/1/2024 16:47
+The text under the New User section is not in English,P0-3,10002,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Low,,,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 16:42,9/1/2024 16:44,9/1/2024 16:44,,,0,"Action Performed
+
+# Open [https://academybugs.com/|https://academybugs.com/]
+# Click the Find Bugs link on the navigation bar
+# Open a product
+# Scroll down to the bottom of the right side menu
+# Click ‘Sign In’ to open the sign in page
+
+Expected Result
+
+The Text under the New User section is in  English
+
+
+
+Actual Result
+
+The text under the New User section is in another language",All Browsers,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 4:44 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;content_01.PNG;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10002,,,,,,,,,,,,,,,,,0|i0000f:,,,,,,,,,,,,,To Do,9/1/2024 16:42
+The product in the Hot item section keeps loading when clicked,P0-2,10001,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Medium,,,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 16:37,9/1/2024 16:38,9/1/2024 16:37,,,0,"Actions Performed
+
+# Open [https://academybugs.com/|https://academybugs.com/]
+# Click the Find Bugs link on navigate bar
+# Open a product
+# Open the product in the Hot Item section of the right side menu
+
+Expected Result
+
+The product in the Hot item section is displayed
+
+
+
+Actual Result
+
+The page loads infinitely",All Browsers,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 4:38 PM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;Performance_01.PNG;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10001,,,,,,,,,,,,,,,,,0|i00007:,,,,,,,,,,,,,To Do,9/1/2024 16:37
+ The page becomes unresponsive when clicking on the numbers of results.,P0-1,10000,Bug,To Do,P0,Project_001,software,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,Highest,,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,9/1/2024 9:19,9/1/2024 9:20,9/1/2024 9:19,,,0,"h3. *Action Performed*
+
+# Open [*https://academybugs.com*|https://academybugs.com/]
+# Click the Find Bugs link on the navigation bar
+# Click on the buttons to show a certain number of results at the top left
+
+h3. *Expected Result*
+
+The selected number of results is displayed according to the clicked buttons
+
+h3. *Actual Result*
+
+The page freezes when clicking on the numbers of results","||*Frequency*||*Environment*||
+|Every time|All browsers|",Kanchana Karunarathna,712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b,,,,,,,,,01/Sep/24 9:20 AM;712020:f4fed170-b0a3-4708-bfa0-cf4d2fa3939b;crash_01.PNG;https://kanchiatwar.atlassian.net/rest/api/3/attachment/content/10000,,,,,,,,,,,,,,,,,0|hzzzzz:,,,,,,,,,,,,,To Do,9/1/2024 9:19

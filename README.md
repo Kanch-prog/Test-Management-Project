@@ -9,7 +9,7 @@ This project involved managing test cases and defects using Jira. I tested the w
 
 ## Key Activities
 - Created and managed a project in Jira.
-- Documented 111 issues found during testing.
+- Documented 11 issues found during testing.
 - Categorized and prioritized issues for resolution.
 
 ## Repository Contents
@@ -22,3 +22,4 @@ This project involved managing test cases and defects using Jira. I tested the w
 - Review the Jira exports to see the documented issues.
 - Check the screenshots for visual confirmation of the issues.
 
+## https://kanchiatwar.atlassian.net/issues/?jql=project+%3D+%22P0%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiZTFmZjBhZGFhMmZlNDE0Y2I5MmQzMzlmZTkxNzM2MjMiLCJwIjoiaiJ9
